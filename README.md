@@ -9,6 +9,6 @@ a. CSRF <br>
 <br>
 b. OAuth_Twitter-X<br>
 
-i. This project showcase the use of OAuth authorisation for fetch data from APIs<br>
-ii. This code can be used to fetch data from Twitter, Reddit, Google, etc.<br>
-iii. Please refer the latest documentation of the websites as API deails can be updated with time<br>
+    i. This project showcase the use of OAuth authorisation for fetch data from APIs<br>
+    ii. This code can be used to fetch data from Twitter, Reddit, Google, etc.<br>
+    iii. Please refer the latest documentation of the websites as API deails can be updated with time<br>
